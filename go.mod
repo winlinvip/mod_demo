@@ -1,4 +1,4 @@
-module private.me/mdi
+module private.me/show
 
 go 1.13
 

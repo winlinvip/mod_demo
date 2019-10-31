@@ -2,7 +2,7 @@ package logger
 
 import (
 	"fmt"
-	"private.me/mdi/core"
+	"private.me/show/core"
 	"github.com/pkg/errors"
 )
 

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"os"
-	"private.me/mdi/logger"
+	"private.me/show/logger"
 )
 
 func main() {
